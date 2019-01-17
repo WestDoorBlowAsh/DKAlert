@@ -1,6 +1,6 @@
 # DKAlert
 
-[![CI Status](https://img.shields.io/travis/dengkai2333@sina.com/DKAlert.svg?style=flat)](https://travis-ci.org/dengkai2333@sina.com/DKAlert)
+[![CI Status](https://img.shields.io/travis/WestDoorBlowAsh/DKAlert.svg?style=flat)](https://travis-ci.org/WestDoorBlowAsh/DKAlert)
 [![Version](https://img.shields.io/cocoapods/v/DKAlert.svg?style=flat)](https://cocoapods.org/pods/DKAlert)
 [![License](https://img.shields.io/cocoapods/l/DKAlert.svg?style=flat)](https://cocoapods.org/pods/DKAlert)
 [![Platform](https://img.shields.io/cocoapods/p/DKAlert.svg?style=flat)](https://cocoapods.org/pods/DKAlert)
@@ -22,7 +22,7 @@ pod 'DKAlert'
 
 ## Author
 
-dengkai2333@sina.com
+WestDoorBlowAsh
 
 ## License
 
