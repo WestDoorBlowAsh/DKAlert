@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/dengkai2333@sina.com/DKAlert'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'dengkai2333@sina.com' => 'zhijunhe@jieyuechina.com' }
+  s.author           = { 'dengkai2333@sina.com' => '944243843@qq.com' }
   s.source           = { :git => 'https://github.com/dengkai2333@sina.com/DKAlert.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

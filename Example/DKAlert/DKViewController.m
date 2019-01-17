@@ -7,6 +7,7 @@
 //
 
 #import "DKViewController.h"
+#import <DKAlert/DKAlert.h>
 
 @interface DKViewController ()
 
@@ -24,6 +25,10 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+- (IBAction)showAlert:(id)sender {
+    [DKAlert showAlert];
 }
 
 @end
