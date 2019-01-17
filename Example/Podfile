@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'DKAlert_Example' do
+  pod 'DKAlert', :path => '../'
+
+  target 'DKAlert_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
