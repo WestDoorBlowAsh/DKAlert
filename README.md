@@ -22,7 +22,7 @@ pod 'DKAlert'
 
 ## Author
 
-dengkai2333@sina.com, zhijunhe@jieyuechina.com
+dengkai2333@sina.com
 
 ## License
 
